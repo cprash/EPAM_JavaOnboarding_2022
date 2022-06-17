@@ -1,0 +1,17 @@
+Started at Thu Jun 16 11:21:28 IST 2022
+Checking BlueOceanJenkinsMultiBranch
+Checking DescriptivePipelineWithJenkinsFile
+Checking GameOfLifeDeploymentOnTomcat
+Checking GameOfLifeDeploymentPipeline
+Checking HI_Jenkins
+Checking Rahul Sharma
+Checking Pipeline
+Checking ScriptivePipelineWithJenkinsFile
+Checking TestNgParameterized
+Checking TestNGPipeline
+Checking TestNGPipelineProfile
+Checking TestPipeline
+Checking BlueOceanJenkinsMultiBranch » main
+Checking BlueOceanJenkinsMultiBranch » newBranch
+Checking BlueOceanJenkinsMultiBranch » newBranch1
+Finished at Thu Jun 16 11:21:28 IST 2022. 13ms

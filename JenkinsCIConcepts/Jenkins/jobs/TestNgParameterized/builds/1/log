@@ -1,0 +1,92 @@
+Started by user [8mha:////4Ff5AKNTveW74g2k0nokAVlPmRSpWoYHKnkMCnkwp+jWAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgZu/dLi1CL9xJTczDwA4LbuW8AAAAA=[0mRahul Sharma
+Running as SYSTEM
+Building in workspace C:\Users\Rahul_Sharma7\.jenkins\workspace\TestNgParameterized
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/frusteee/MavenSmokeAndRegressionProfileTestNG.git
+ > git.exe init C:\Users\Rahul_Sharma7\.jenkins\workspace\TestNgParameterized # timeout=10
+Fetching upstream changes from https://github.com/frusteee/MavenSmokeAndRegressionProfileTestNG.git
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.36.1.windows.1'
+ > git.exe fetch --tags --force --progress -- https://github.com/frusteee/MavenSmokeAndRegressionProfileTestNG.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/frusteee/MavenSmokeAndRegressionProfileTestNG.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+Checking out Revision e483ebe5b87618e029f0d44b01afafb308ed86e9 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f e483ebe5b87618e029f0d44b01afafb308ed86e9 # timeout=10
+Commit message: "Initial COmmit"
+First time build. Skipping changelog.
+[TestNgParameterized] $ cmd /c call C:\Users\RAHUL_~1\AppData\Local\Temp\jenkins5203221405414520799.bat
+
+C:\Users\Rahul_Sharma7\.jenkins\workspace\TestNgParameterized>mvn test -P smoke 
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------< org.example:TestNGMavenHomeTask2and3 >----------------
+[INFO] Building TestNGMavenHomeTask2and3 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ TestNGMavenHomeTask2and3 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Rahul_Sharma7\.jenkins\workspace\TestNgParameterized\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ TestNGMavenHomeTask2and3 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\Rahul_Sharma7\.jenkins\workspace\TestNgParameterized\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ TestNGMavenHomeTask2and3 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Rahul_Sharma7\.jenkins\workspace\TestNgParameterized\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ TestNGMavenHomeTask2and3 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\Rahul_Sharma7\.jenkins\workspace\TestNgParameterized\target\test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:3.0.0-M5:test (default-test) @ TestNGMavenHomeTask2and3 ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running org.example.TestNgTests.SmokeAndRegressionTests
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+This is test 1
+This is test 2
+This is test 3
+This is test 4
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.339 s - in org.example.TestNgTests.SmokeAndRegressionTests
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[INFO] --- maven-surefire-plugin:3.0.0-M5:test (default-smoke-test) @ TestNGMavenHomeTask2and3 ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running TestSuite
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+This is test 1
+This is test 2
+This is test 3
+This is test 4
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.411 s - in TestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.722 s
+[INFO] Finished at: 2022-06-08T14:04:27+05:30
+[INFO] ------------------------------------------------------------------------
+Finished: SUCCESS

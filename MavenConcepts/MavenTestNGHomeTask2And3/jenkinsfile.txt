@@ -1,0 +1,8 @@
+node {
+    stage('checkout'){
+    git 'https://github.com/frusteee/MavenSmokeAndRegressionProfileTestNG.git'
+    }
+    stage('build'){
+    bat 'mvn test -P %testtype%'
+    }
+}

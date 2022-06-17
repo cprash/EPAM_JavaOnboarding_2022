@@ -1,0 +1,30 @@
+commit c6e5c5049a0ea295c90629de43c5c964b6ea08b0
+tree 8f6d245ad6b7d9afcf0f7f25294d595b87fef887
+parent 724f9eb8bd94ba3c76f2c999a7f03184bff724cf
+author Rahul Sharma <Rahul_Sharma7@epam.com> 2022-06-09 10:43:37 +0530
+committer Rahul Sharma <Rahul_Sharma7@epam.com> 2022-06-09 10:43:37 +0530
+
+    Added post actions in file
+
+
+:100644 100644 5df9fbf1c19e96d641c779f740e0b9e7a1b3fed5 d5e054f5daae47ecdf6f1788b5207991719b0cfc M	jenkinsfiledeclarative.txt
+commit 724f9eb8bd94ba3c76f2c999a7f03184bff724cf
+tree f2b87310e9f2e0e178d32c7656bec885754582d1
+parent 86dc51ed80c9db7339166f28be5fa8b989f2d0db
+author Rahul Sharma <Rahul_Sharma7@epam.com> 2022-06-09 10:25:20 +0530
+committer Rahul Sharma <Rahul_Sharma7@epam.com> 2022-06-09 10:25:20 +0530
+
+    Updated file
+
+
+:100644 100644 880187de2c341618baf55dbca8ecd2962ce5373a 5df9fbf1c19e96d641c779f740e0b9e7a1b3fed5 M	jenkinsfiledeclarative.txt
+commit 86dc51ed80c9db7339166f28be5fa8b989f2d0db
+tree 2030dc64c3b2d41444d23965dc56d30b2efc5793
+parent a33e84c89a560a9570da1f85321a5a6f73a65759
+author Rahul Sharma <Rahul_Sharma7@epam.com> 2022-06-09 10:20:00 +0530
+committer Rahul Sharma <Rahul_Sharma7@epam.com> 2022-06-09 10:20:00 +0530
+
+    Added Declarative JEnkins File
+
+
+:000000 100644 0000000000000000000000000000000000000000 880187de2c341618baf55dbca8ecd2962ce5373a A	jenkinsfiledeclarative.txt

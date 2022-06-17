@@ -1,0 +1,10 @@
+Started by user [8mha:////4Ff5AKNTveW74g2k0nokAVlPmRSpWoYHKnkMCnkwp+jWAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgZu/dLi1CL9xJTczDwA4LbuW8AAAAA=[0mRahul Sharma
+Running as SYSTEM
+Building in workspace C:\Users\Rahul_Sharma7\.jenkins\workspace\HI_Jenkins
+[HI_Jenkins] $ cmd /c call C:\Users\RAHUL_~1\AppData\Local\Temp\jenkins10482047914895954338.bat
+
+C:\Users\Rahul_Sharma7\.jenkins\workspace\HI_Jenkins>echo "HelloWorld" 
+"HelloWorld"
+
+C:\Users\Rahul_Sharma7\.jenkins\workspace\HI_Jenkins>exit 0 
+Finished: SUCCESS

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/APIRestAssuredConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/APIRestAssuredConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BDD/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BDD/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CollectionsAndJavaEightConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CollectionsAndJavaEightConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CoreJava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CucumberBDD/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CucumberBDD/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CucumberWebDriverBDD/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CucumberWebDriverBDD/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatternsConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesignPatternsConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GitConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GitConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8AndCollectionsConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8AndCollectionsConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JenkinsCIConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JenkinsCIConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenConcepts/MavenSerenityHomeTask1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenConcepts/MavenSerenityHomeTask1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenConcepts/MavenTestNGHomeTask2And3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenConcepts/MavenTestNGHomeTask2And3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenConcepts/SerenityBDDHomeTask1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenConcepts/SerenityBDDHomeTask1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MavenConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OOPSConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OOPSConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SerenityBDD/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SerenityBDD/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestNGAndJenkinsPipelineConcepts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestNGAndJenkinsPipelineConcepts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

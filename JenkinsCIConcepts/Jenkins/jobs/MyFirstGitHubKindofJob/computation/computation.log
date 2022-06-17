@@ -1,0 +1,26 @@
+Started by timer
+[Wed Jun 15 22:47:53 IST 2022] Starting organization scan...
+[Wed Jun 15 22:47:53 IST 2022] Updating actions...
+Looking up details of frusteee...
+Organization URL: [8mha:////4AoMd8OkW7zX6cvJdkTZoy4beFySp+hb1rPBgE2eP3kGAAAAmx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgKWGQzigpKSi20tdPzyzJKE0C6srVTysqLS5JTU0FAF9KWYygAAAA[0mRahul Sharma
+[Wed Jun 15 22:47:54 IST 2022] Consulting GitHub Organization
+[8mha:////4HdSzpI4ARhpZU4kPfqInebrBs/znYJSdGs3LLC92+usAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHRjRrzqIwB/XyiSjgAAAA==[0mConnecting to https://api.github.com using frusteee/******
+ERROR: [Wed Jun 15 22:47:55 IST 2022] Could not fetch sources from navigator org.jenkinsci.plugins.github_branch_source.GitHubSCMNavigator@2bc573de
+[Wed Jun 15 22:47:55 IST 2022] Finished organization scan. Scan took 1.7 sec
+FATAL: Failed to recompute children of Rahul Sharma
+org.kohsuke.github.HttpException: {"message":"Requires authentication","documentation_url":"https://docs.github.com/rest/reference/users#get-the-authenticated-user"}
+	at org.kohsuke.github.GitHubConnectorResponseErrorHandler$1.onError(GitHubConnectorResponseErrorHandler.java:56)
+	at org.kohsuke.github.GitHubClient.detectKnownErrors(GitHubClient.java:424)
+	at org.kohsuke.github.GitHubClient.sendRequest(GitHubClient.java:386)
+	at org.kohsuke.github.GitHubClient.sendRequest(GitHubClient.java:355)
+	at org.kohsuke.github.Requester.fetch(Requester.java:76)
+	at org.kohsuke.github.GitHub.setMyself(GitHub.java:569)
+	at org.kohsuke.github.GitHub.getMyself(GitHub.java:563)
+	at org.jenkinsci.plugins.github_branch_source.GitHubSCMNavigator.visitSources(GitHubSCMNavigator.java:976)
+	at jenkins.branch.OrganizationFolder.computeChildren(OrganizationFolder.java:536)
+	at com.cloudbees.hudson.plugins.folder.computed.ComputedFolder.updateChildren(ComputedFolder.java:278)
+	at com.cloudbees.hudson.plugins.folder.computed.FolderComputation.run(FolderComputation.java:166)
+	at jenkins.branch.OrganizationFolder$OrganizationScan.run(OrganizationFolder.java:918)
+	at hudson.model.ResourceController.execute(ResourceController.java:101)
+	at hudson.model.Executor.run(Executor.java:442)
+Finished: FAILURE

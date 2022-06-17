@@ -1,0 +1,45 @@
+Started by user [8mha:////4Ff5AKNTveW74g2k0nokAVlPmRSpWoYHKnkMCnkwp+jWAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgZu/dLi1CL9xJTczDwA4LbuW8AAAAA=[0mRahul Sharma
+[Thu Jun 09 13:31:59 IST 2022] Starting branch indexing...
+[8mha:////4IfyYcjyzi8GTqHwa55cj4K+YVSUYmcOpmooSOzSV4ZUAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSjew37UQDl68pSjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4HWt8YO4rkn8x8bR9m6GndvfbCaXLu5K+M4Q+hXCxfODAAAAsx+LCAAAAAAAAP9djDESwUAUhp8YDqA0SnW2Y4ZJEw0mKJxgxbO7sl4yu29NXMM1aBzCcdxBTDpf83/N/z0/0PMORjocfUlxXpIvLcbLW4XOGiq2JeMkebySe/WOIFpB3yIp1hl0g7MMg+wsr1JYSUrs2RlS89rB8C+3aPcXg5ZOBFBXjYwZppq58jMhlGEdDs3rIk4ueEZEkdqAuxwlrZEKQ34TLJvUScr1F48g7Hu8AAAA[0mfrusteee/BlueOceanJenkinsMultiBranch
+
+  Checking branches...
+
+  Getting remote branches...
+[8mha:////4GzGOq3lQe7lTYZQJnHpxsdKbc2L8DnRyJek/WpDbCQMAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSjew3HdwCqpoUdjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 27 remaining (3 over budget). Next quota of 60 in 23 min. Sleeping for 7 min 41 sec.
+[8mha:////4GzGOq3lQe7lTYZQJnHpxsdKbc2L8DnRyJek/WpDbCQMAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSjew3HdwCqpoUdjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4B7DdVPMAbK/VkMLpeqy+teHIJiZDpJ8vU0k2s9wWqwHAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSje92ZFgAIQJt4jgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 4 min 39 sec remaining.
+[8mha:////4AirqWIm7jeCdUJZYvPEyCz8UBEQaAtwCG3jqXua/tEiAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSje+MEVQDD9dxxjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 38 sec remaining.
+
+    Checking branch [8mha:////4OeHLQBqx/+eDQafXVh1epHt+Ez9O7UrIjy+ZHJ6C0HWAAAAuh+LCAAAAAAAAP9djLsRwjAQRA/zKYCQoQYrI4BxgEmAMRBQgTCHJCyfPdKJMW3QBiQUQTn0gBkyNtkN3r7HG/rewViHo68ozivylcV4ea3RWUPFtmKcJPdncqtfEUQrGFgkxTqDbnCWYZid5UUKK0mJPTtDatY4GP3pFr/+yuCXTgTQ1O3oMcw1c+2nQijDOhzaVylOLnhGRJHagLscJa2RCkN+Eyyb1EnKtWDXAqU09AFdRnv7xgAAAA==[0mmain
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: main (still at 6d1550fefe4fcaf12173a0ce45ee343b8a8e33a0)
+
+    Checking branch [8mha:////4IF0xa7LnwOcBbjBiulGhKdd2+hRx4y6F1drbzyLfNZIAAAAvB+LCAAAAAAAAP9djL0NwjAUhB9BINFSImaIOwpQmiAhQAEKJjDhYZuYl8h+5mcN1oCGIRiHHQhKxzV3J919zw90vIOhDntfUpyX5EuL8fxWobOGinXJOEoer+RevSOIFtC1SIp1Bu3gLEM/O8qzFFaSElt2htTk6mDwh5s2/oNBo1YEcK3q0GOYaebKj4VQhnXY1a+TOLjgGRFFagNucpS0RCoM+VWwbFInKdeCXT0gvDT1C38pFVLLAAAA[0mnewBranch
+      ‘Jenkinsfile’ found
+    Met criteria
+No changes detected: newBranch (still at e78d3bc5632b7c77b6a3aed712ad768374dca6e6)
+
+    Checking branch [8mha:////4GY1uR2l1glGyEXaSGW7yplXco+gvybUKcEsy45KX5PAAAAAvR+LCAAAAAAAAP9djL0NwjAUhB9BUFBSImaIRUMBShMKfhSgYAITHrGJeYnsZwhrsAY0DME47EBQOq65O+nue36g4ywMlT+4gsK0IFcYDBe3Eq3RlG8KxnH0eEX38h1AsISuQcpYJdD21jD0k5O8SGEkZWLHVlM2rSwM/nCzxn8waNQKAKqyDj2GuWIu3USITLPy+/p1FkfrHSOiiI3HbYqSVki5Jrf2hnVsJaVKsK0HhNemjr5Bi60yzAAAAA==[0mnewBranch1
+[8mha:////4Nrxa1I/N/oDdSjMBLVOeBOhkLt+k6oU9oT+BYrywnw9AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSje7N4NgC2Q/6XjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 20 remaining (5 over budget). Next quota of 60 in 16 min. Sleeping for 10 min.
+[8mha:////4NxVt1BlZazhmi4vx18nsiJWqRP4Ye+ZJgb4KG8e5g3jAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSje7N4DgAV1poJjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4On/9uK18U1HcA+bZV1XZgkGLdOJbqaisHInI9DFIxcDAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSje+ttWQBPc1pNjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 7 min 41 sec remaining.
+[8mha:////4O1PE5LFJVJv89aTuxXTVVdQ1K9eCWq73FU1Xvdxalu+AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSje8e8OwB6qe8kjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 4 min 40 sec remaining.
+[8mha:////4KMwvSiPreUA4rFJOAQgZFB370M9Xf5SFRg7+qx/8vVUAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSje3dSFgArr6K8jgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 1 min 39 sec remaining.
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: newBranch1
+
+  3 branches were processed
+
+  Checking pull-requests...
+
+  Getting remote pull requests...
+
+  0 pull requests were processed
+
+Finished examining frusteee/BlueOceanJenkinsMultiBranch
+
+[Thu Jun 09 13:50:26 IST 2022] Finished branch indexing. Indexing took 18 min
+Finished: SUCCESS

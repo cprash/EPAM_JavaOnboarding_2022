@@ -1,0 +1,6 @@
+BlueOceanJenkinsMultiBranch/main
+BlueOceanJenkinsMultiBranch_main
+BlueOceanJenkinsMultiBranch/newBranch
+ceanJenkinsMultiBranch_newBranch
+BlueOceanJenkinsMultiBranch/newBranch1
+eanJenkinsMultiBranch_newBranch1

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="APIRestAssuredConcepts" />
+        <module name="JenkinsCIConcepts" />
+        <module name="DesignPatternsConcepts" />
+        <module name="TestNGAndJenkinsPipelineConcepts" />
+        <module name="MavenSerenityHomeTask1" />
+        <module name="OOPSConcepts" />
+        <module name="BDDHomeTasks" />
+        <module name="GitConcepts" />
+        <module name="CollectionsAndJavaEightConcepts" />
+        <module name="CoreJava" />
+        <module name="CucumberWebDriverBDD" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BDD" target="1.7" />
+      <module name="CucumberBDD" target="1.7" />
+      <module name="Java8AndCollectionsConcepts" target="11" />
+      <module name="Java8Concepts" target="1.7" />
+      <module name="JenkinsCIConcepts" target="1.7" />
+      <module name="MavenTestNGHomeTask2And3" target="11" />
+      <module name="SerenityBDD" target="1.7" />
+      <module name="SerenityBDDHomeTask1" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

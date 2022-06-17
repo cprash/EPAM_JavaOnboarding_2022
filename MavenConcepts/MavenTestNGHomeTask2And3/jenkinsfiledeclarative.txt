@@ -1,0 +1,24 @@
+pipeline
+{
+	agent any
+	stages
+	{
+		stage('checkout'){
+		steps{
+		git 'https://github.com/frusteee/MavenSmokeAndRegressionProfileTestNG.git'
+		}
+		}
+		stage('build'){
+		steps{
+		bat 'mvn test -P %testtype%'
+		}
+		}
+	}
+	post
+	{
+	always
+	{
+	echo 'Pipepline Finished'
+	}
+	}
+}
